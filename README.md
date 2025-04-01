@@ -4,8 +4,8 @@
 > <p align="center">院审，启动！😅穹鬼，启动！😅掘区〇，启动！😅</p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NightingaleWK&show_icons=true&locale=cn&theme=radical" alt="NightingaleWK 的 GitHub 统计" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightingaleWK&layout=compact&locale=cn&theme=radical" alt="NightingaleWK 的常用语言" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NightingaleWK&show_icons=true" alt="NightingaleWK 的 GitHub 统计" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightingaleWK&layout=compact" alt="NightingaleWK 的常用语言" />
   </p>
 
 ---
