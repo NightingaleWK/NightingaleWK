@@ -83,9 +83,7 @@
 ## 📈 我的 GitHub 活动 / My GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NightingaleWK&bg_color=ffffff&color=708090&line=24a3ff&point=000000&area=true&hide_border=true" alt="GitHub 活动图谱"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NightingaleWK&bg_color=ffffff&color=708090&line=24a3ff&point=000000&area=true&hide_border=true" alt="GitHub 活动图谱"/>
 </p>
 
 ---
