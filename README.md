@@ -1,7 +1,6 @@
-# Hi 👋, 我是 NightingaleWK (夜莺之刃 / wk)
+# Hi 👋, 我是 NightingaleWK
 
 ### 一名精力充沛的 Coder，喜欢面向一切整活，ACGN 初心者，互联网抽象文化洗礼者。
-“夜莺之刃”源自《上古卷轴 5》的夜莺盗贼工会，Skyrim 是我心中的奇幻 RPG 神作！
 
 > 院审，启动！😅穹鬼，启动！😅掘区〇，启动！😅
 
@@ -23,20 +22,6 @@ Laravel, PHP, Livewire, Filament, Tailwind CSS, MySQL, PostgreSQL, Redis, Git, D
 * **yanji 岩脊**: 公司自用的运维工作全流程审批督办平台系统。
 * **膝盖中箭之地**: 从 2017 年运营至今的 Minecraft Realms 服务器，愿将美好的游戏世界，邀诸位共赏。
 
-## 🎭 兴趣爱好 / Interests
-
-* **🎮 游戏人生:**
-    * **《上古卷轴 5：天际》:** 我的入坑神作！“夜莺之刃”之名便来源于此。最爱雪漫城的风宅 (Breezehome)，那是游戏里最温馨的家。
-    * **Minecraft:** 膝盖中箭之地 Realms 服务器服主，欢迎一起来玩！
-    * 其他喜欢的游戏类型或作品：开放世界, RPG, ACGN 相关游戏等
-* **📚 ACGN:** 动漫 / 漫画 / 轻小说...
-    * 最近在看/玩：崩坏：星穹铁道
-    * 本命角色/作品：可莉（哒哒哒~）
-* **🌐 互联网文化:** 热衷于探索网络流行梗和抽象文化 🤪
-* **💡 整活:** 喜欢在代码和生活中寻找乐趣，尝试各种新奇的玩意儿！
-
-(Bilibili 链接: https://space.bilibili.com/832866)
-
 ## 📝 关于博客 / About My Blog
 
 * **名称:** [雪漫城的风宅](https://nightingalewk.cn/)
@@ -44,8 +29,5 @@ Laravel, PHP, Livewire, Filament, Tailwind CSS, MySQL, PostgreSQL, Redis, Git, D
 * **简介:** 使用 Hexo (Cactus 主题) 构建，部署在 GitHub Pages。记录生活点滴、学习心得和 ACGN 相关内容。欢迎来访！
 
 ## 📫 如何找到我 / Connect with Me
-
-* 博客: [https://nightingalewk.cn/](https://nightingalewk.cn/)
 * GitHub Discussions: [https://github.com/NightingaleWK/github-blog/discussions](https://github.com/NightingaleWK/github-blog/discussions)
 * Email: djsywxsj@outlook.com
-* QQ: 731154588 (链接: tencent://message/?uin=731154588&Site=Sambayon&Menu=yes)
