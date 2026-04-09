@@ -7,7 +7,7 @@
 ## 🛠️ 技术栈
 
 1. 基于 Laravel 的 TALL Stack
-2. SSD 开发范式
+2. SDD 开发范式
 
 ## 📝 关于博客
 
