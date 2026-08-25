@@ -8,7 +8,7 @@
 
 | 领域 / 类别 | 技能生态 & 工具链 |
 | :--- | :--- |
-| **💡 核心理念与架构** | • **SDD 开发范式** (Software Design Description)<br>• **AI-Driven Workflow** (拥抱 AI 赋能的高效研发流程) |
+| **💡 核心理念与架构** | • **Herness** (Herness is everything)<br>• **SDD 开发范式** (Software Design Description)<br>• **AI-Driven Workflow** (拥抱 AI 赋能的高效研发流程)|
 | **🖥️ 后端开发** | ![PHP](https://img.shields.io/badge/PHP_8.5-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel_13.x-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Filament](https://img.shields.io/badge/Filament_5.x-FDBB0A?style=flat&logo=filament&logoColor=black) ![NativePHP](https://img.shields.io/badge/NativePHP-4A5568?style=flat&logo=php&logoColor=white) |
 | **🎨 前端与 TALL Stack** | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwindcss&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0.svg?style=flat&logo=alpinedotjs&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-%23FB70A9.svg?style=flat&logo=livewire&logoColor=white) |
 | **🗄️ 数据库与底层环境** | ![MySQL](https://img.shields.io/badge/MySQL_8.0+-%23044F8C.svg?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
