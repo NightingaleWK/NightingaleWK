@@ -19,4 +19,4 @@
 * Email: djsywxsj@outlook.com
 * Blog: [雪漫城的风宅](https://nightingalewk.cn/)
 
-> 在终末地里拉电线无法自拔 🔥
+> 牛逼啊V，穿的和个性偶样的就在大马路上大杀四方啊 🔥
