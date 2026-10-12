@@ -19,4 +19,4 @@
 * Email: djsywxsj@outlook.com
 * Blog: [雪漫城的风宅](https://nightingalewk.cn/)
 
-> 牛逼啊V，穿的和性偶一样的在大马路上大杀四方啊 🔥
+> 我还是回坑崩铁了，总之，我将，点燃大海！
